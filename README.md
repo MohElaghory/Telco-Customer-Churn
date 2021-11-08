@@ -1,10 +1,8 @@
-# Churn-Classification: :bulb: :bulb:
+#  Telco_Customer_Churn: :bulb: :bulb:
 
-## Churn-Classification is one of ITI AI-pro track intake1 competitions on Kaggle platform.
+## CTelco_Customer_Churn is one of ITI AI-pro track intake1 competitions on Kaggle platform.
 
-# Telco_Customer_Churn
-
-![image6]()
+![image6](![Customer Churn](https://user-images.githubusercontent.com/44786324/140836083-bc1ebf9e-fc74-4df2-a719-13ba8d16ca8f.png)
 
 ## `Telco Customer Churn `
 **The Telco customer churn data contains information about a fictional telco company that provided home phone and Internet services to 7043 customers in California in Q3. It indicates which customers have left, stayed, or signed up for their service. Multiple important demographics are included for each customer, as well as a Satisfaction Score, Churn Score, and Customer Lifetime Value (CLTV) index.**
@@ -55,4 +53,4 @@
 https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
 
 
-✔️ ✔️ Check Competition on Kaggle: https://lnkd.in/dr8uTkdC
+✔️ ✔️ Check Competition on Kaggle: hhttps://www.kaggle.com/blastchar/telco-customer-churn
