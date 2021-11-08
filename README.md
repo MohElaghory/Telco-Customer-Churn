@@ -1,6 +1,6 @@
 #  Telco_Customer_Churn: :bulb: :bulb:
 
-## Telco_Customer_Churn is one of ITI AI-pro track intake1 competitions on Kaggle platform.
+### Telco_Customer_Churn is one of ITI AI-pro track intake1 competitions on Kaggle platform.
 
 ![Customer Churn](https://user-images.githubusercontent.com/44786324/140836083-bc1ebf9e-fc74-4df2-a719-13ba8d16ca8f.png)
 
